@@ -15,7 +15,7 @@ Este projeto foi desenvolvido durante um **Hackathon** com o objetivo de criar u
 ---
 
 ## 🧪 Tecnologias
-- 
+
 - **Supabase** — Banco de dados PostgreSQL na nuvem
 - **SQL** — Criação e inserção dos dados das aulas
 - **Git & GitHub** — Colaboração em equipe
